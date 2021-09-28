@@ -58,7 +58,7 @@
     <nav>
         <h6>Explore</h6>
         <ul>
-            <li><a href="index.html">Page 1</a></li>
+            <li><a href="HTML Website Page 1.html">Page 1</a></li>
             <li><a href="HTML Website Page 2.html">Page 2</a></li>
         </ul>
     </nav>
